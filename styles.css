@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    color: white;
+}
+
+.text-color{
+    color:#ccff33
+}
+
+.g-text{
+    color:#ccff33;
+    font-family: 'Bad Boys' !important;
+}
+
+.rel-item{
+    position:absolute;
+}
+
+.line{
+    width:20vw;
+    height:1px;
+    display:inline;
+    border: 1px solid #ccff33;
+}
+
+@media screen and (max-width: 768px) {
+    #nav-img{
+        margin-top: 0;
+    }
+}

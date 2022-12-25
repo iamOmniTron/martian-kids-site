@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="448" height="448" viewBox="0 0 448 448">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.783" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#70e000" stop-opacity="0.722"/>
+      <stop offset="1" stop-color="#387000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <circle id="Half_Circle" data-name="Half Circle" cx="224" cy="224" r="224" fill="url(#linear-gradient)"/>
+</svg>
